@@ -1,0 +1,7 @@
+### Template comment
+# This is .gitignore example
+dir/
+*.py[cod] - .pyc, .pyo, .pyd
+file.ext
+dir/file.ext
+/log
